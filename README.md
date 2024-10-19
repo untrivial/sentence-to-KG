@@ -1,7 +1,7 @@
 # sentence-to-KG
 
 Basically took every pair of consecutive words in the movie script and put them into a graph.
-![Barry](barry.png)
+<img src="barry.png" width="300" alt="Barry">
 
 ![Knowledge Graph](beeMovieKG.png)
 
